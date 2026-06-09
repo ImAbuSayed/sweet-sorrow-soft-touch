@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-sorrow-soft-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sweet Sorrow Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-sorrow-soft-touch/) |
+| **Get License** | [License this song: Sweet Sorrow Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-sorrow-soft-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the pull every time that you look my way
+> A quiet fire burning slow at the end of the day
+> Your shadow dancing softly right against my skin
+> This is the beautiful trouble I wanna get in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
