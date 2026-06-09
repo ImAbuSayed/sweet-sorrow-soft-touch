@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-sorrow-soft-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sweet Sorrow Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-sorrow-soft-touch/) |
+| **Get License** | [Get a Licensing Quote for Sweet Sorrow Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-sorrow-soft-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a35173d3906a664b518d96c83f0467db745e63542616f1cd0466d6fd999b78ba` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
